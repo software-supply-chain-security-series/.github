@@ -16,3 +16,6 @@ software supply chain security technologies.**
 Questions, ideas, or interested in bringing a project into the series? Reach
 out in the `#software-supply-chain-security-series` channel on the
 [OpenSSF Slack](https://slack.openssf.org/).
+
+Organizations who would like to support the Working Group are encouraged to
+join the [Software Supply Chain Security Series](https://join.sscss.io/).
